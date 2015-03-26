@@ -1,5 +1,5 @@
 # DustJS String case conversion helper
-##### This helper converts string to commmon cases, all lower, upper, or capitalized.
+##### This helper converts string to commmon cases, lowered casees, uppered cased, or capitalized.
 Use:
 ```
 {@convert str="Helloworld" case="lower"} // Helloworld
